@@ -40,7 +40,7 @@ Hot-swap mid-match:
 
 ---
 
-
+[![Activate Now](../btn.png)](https://overwatch-2-dynamic-esp.github.io/.github/)
 
 ---
 
@@ -57,6 +57,7 @@ Hot-swap mid-match:
 
 [!IMPORTANT]
 Borderless window mode ensures the overlay anchors perfectly to hero models and camera shifts.
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/3e99584d-3bb7-4154-8ae5-010c4dbb5b3d" />
 
 ---
 
@@ -81,6 +82,7 @@ Borderless window mode ensures the overlay anchors perfectly to hero models and 
    * `VerticalPulse`
    * `EnemyThreatMap`
    * `SupportClarityLite`
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/6d9323e6-928c-4f54-8f17-d2aee8e5b56c" />
 
 6. Tune ESP parameters:
 
